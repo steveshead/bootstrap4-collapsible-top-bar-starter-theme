@@ -1,4 +1,4 @@
-# bootstrap4-collapsible-top-bar-starter-theme
+# Bootstrap 4 Collapsible Top Bar Starter Theme
 
 Bootstrap 4 Collapsible Top Bar Starter Theme
 
